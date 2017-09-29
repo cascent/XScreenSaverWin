@@ -2,6 +2,8 @@
 
 This is XScreenSaver for Windows (XScreenSaverWin). This software was based on XScreenSaver 5.22 (for non-Windows OS) by Jamie Zawinski. Porting to Windows was mostly done by Katayama Hirofumi MZ.
 
+**The password for the installer, version 0.8.1, is on [line 29871 of file XScreenSaverWin.iss](https://github.com/katahiromz/XScreenSaverWin/commit/b4ef93baf7bf21bdc85e181d2a33e23880d0f6c3#diff-e42c2e459531eb860770ae6a98ec539eR29871)**
+
 You can download binary at the XScreenSaverWin homepage. Check STATUS.txt for porting status. Check LICENSE.txt for licensing information. It works on Windows 2000/XP/Vista/Server 2003/7/10.
 
 Once you installed XScreenSaverWin, then you can install a screensaver from the main program "xscreensaver.exe".
